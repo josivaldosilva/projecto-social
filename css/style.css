@@ -66,6 +66,7 @@ main {
     transform: translate(-50%, -50%);
 
     background: url('../imagens/frame-iphone.png');
+    
 }
 
 #tela {
@@ -77,3 +78,4 @@ main {
     height: 471px;
  
 }
+
